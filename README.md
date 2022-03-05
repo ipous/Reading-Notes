@@ -16,3 +16,4 @@ A collection of notes taken for Code Fellows 301: Intermediate Software Developm
 - [Loops](loops.md)
 - [For Each](array-forEach.md)
 - [Array.Map](arrayMap.md)
+- [Functional Programming](functionalProgramming.md)
